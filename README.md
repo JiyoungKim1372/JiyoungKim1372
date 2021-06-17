@@ -133,7 +133,7 @@ Materialized View를 구현하여, 타 마이크로서비스의 데이터 원본
 
 # 여기까지 작업함
 
-위와 같이 주문을 하게되면 Order > Pay > Delivery > MyPage로 주문이 Assigned 되고
+예약을 하게되면  reservation > payment > notice > MyPage로 주문이 Assigned 되고
 
 주문 취소가 되면 Status가 deliveryCancelled로 Update 되는 것을 볼 수 있다.
 
