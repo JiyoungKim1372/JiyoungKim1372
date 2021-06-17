@@ -43,5 +43,11 @@
 1. Self-healing (Liveness Probe)
 ```
 
+## Event Storming 결과
+![489546E2-B902-49D4-A6AE-1F4C2BD0E6C2](https://user-images.githubusercontent.com/82069747/122322611-b414bc80-cf60-11eb-8cf9-feba63327fcf.jpeg)
 
-# 분석/설계
+
+## 헥사고날 아키텍처 다이어그램 도출
+![125E8CD7-E916-4451-921A-DB008FE144CE_4_5005_c](https://user-images.githubusercontent.com/82069747/122322801-05bd4700-cf61-11eb-905b-c280023306f2.jpeg)
+
+
